@@ -7,10 +7,7 @@
         </router-link>
     </div>
     <div class="w-1/2 flex py-5">
-        <div class="mr-5 w-1/8">
-            <router-link to="/" class="text-blue-500 py-1 px-3">Home</router-link>
-        </div>
-        <div class="mr-5 w-1/8">
+        <div class="mr-3 w-1/8">
             <router-link to="/about" class="text-blue-500 py-1 px-3">About UT</router-link>
         </div>
         <div class="mr-5 w-1/8 text-blue-500">
@@ -25,8 +22,11 @@
         <div class="mr-5 w-1/8 text-blue-500">
             <div class="">Berita</div>
         </div>
-        <div class=" w-1/8 text-blue-500">
+        <div class="mr-10 w-1/8 text-blue-500">
             <div class="">Pengumuman</div>
+        </div>
+        <div class="w-1/8 text-blue-500 font-semibold">
+            <div class="">Masuk</div>
         </div>
         <router-view/>
     </div>
