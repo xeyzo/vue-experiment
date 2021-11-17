@@ -1,6 +1,6 @@
 <template>
 <div class="container mx-auto">
-  <div class="navbar flex mb-4 w-auto text-left h-16">
+  <div class="flex mb-4 w-auto text-left h-16">
     <div class="w-1/2 px-2 py-2">
         <router-link to="/">
         <img src = "../assets/Logo-UT_03.png">
