@@ -1,5 +1,5 @@
 <template>
-<div class="container mx-auto mt-10">
+<div class="container mx-auto mt-14 ">
   <nav class="flex mb-4 w-auto text-left h-16">
     <div class="w-1/2 px-2 py-2">
         <router-link to="/">

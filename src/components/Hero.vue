@@ -1,5 +1,5 @@
 <template>
-<div class="flex item-center font-sans py-">
+<div class="flex item-center font-sans py-8">
   <div class="w-1/2 p-40">
     <h1 class="text-5xl leading-none">
       Welcome Halo UT Service
@@ -10,7 +10,7 @@
     when an unknown printer took a galley of type and scrambled it to make a type
     specimen book. It has survived not only five centuries, but also the leap into electronic
     </p>
-    <a href="#" class="border-2 text-gray-700 border-blue-500 rounded-full py-1 px-8 inline-block mt-8">
+    <a href="#" class="hover:bg-blue-100 text-gray-100 border-2 text-gray-700 border-blue-500 rounded-full py-1 px-8 inline-block mt-8">
     Learn More
     </a>
   </div>
